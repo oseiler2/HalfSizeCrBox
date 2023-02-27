@@ -34,7 +34,7 @@ Alternatively and taking the number of occupants into account, the WHO recommend
 | fan screws + nuts       | M4x35mm, only if using fan guards               | fan-included screws are too short for fan guards                                                                   | 20     |                 | [AliExpress](https://www.aliexpress.com/item/32966157667.html), [AliExpress](https://www.aliexpress.com/item/32978551452.html) |
 | acrylic panels          | laser cut from 3mm slightly translucent acrylic | Provide these files: [bottom](res/bottom.svg), [top](res/top.svg), [left](res/side01.svg), [right](res/side02.svg) | 1 each | $85             | [Graley Plastics](https://www.graleyplastics.co.nz)                                                                            |
 | plywood panels          | alternatively use plywood                       | Adjust bottom/top length for plywood thickness.                                                                    | 1 each |                 |                                                                                                                                |
-| internal corners        | 120x~20x~20mm wood                              | I've used 2020 extrusions that I had available                                                                     | 4      |                 |                                                                                                                                |
+| internal corners        | 120x\~20x\~20mm wood                            | I've used 2020 extrusions that I had available                                                                     | 4      |                 |                                                                                                                                |
 | panel screws            | <= M5                                           |                                                                                                                    | 16     |                 |                                                                                                                                |
 | USB-C charger           | 12V capable USB-C PD wall charger               | Upcycled phone charger, or other fixed 12V (>=2A) power supply                                                     | 1      |                 |                                                                                                                                |
 | USB-C power             | 12V USB-C PD 5.5x2.1mm barrel cable             | Make sure to choose 12V version                                                                                    | 1      | $6.00           | [AliExpress](https://www.aliexpress.com/item/1005004477437199.html)                                                            |
@@ -51,7 +51,7 @@ Alternatively and taking the number of occupants into account, the WHO recommend
 3. Add the top and botton panels to the side panels and screw them to the internal corners while making sure the top and bottom panels are flush against the external face of the side panels. The hole in one of the side panels is for the power cable and should be at the bottom.
 4. Connect the fans by plugging each into the plug at the end of the previous fan's cable.
 5. If you are using a barrel connector for power supply enlarge the hole in the side panel with a drill to fit the barrel plug. Install barrel plug. Otherwise install power cable through the side panel hole and secure on the inside with a cable tie.
-6. Connect the power cable or barrel plug with the plug of the first fan. I've used a pin header for the plug, but you can also get a proper connector, or conncet the wires directly. See image for [plug pinout](https://support.arctic.de/products/p12-pwm-pst/img/007.jpg)
+6. Connect the power cable or barrel plug with the plug of the first fan. I've used a pin header for the plug, but you can also get a proper connector, or conncet the wires directly. See image for ![plug pinout](https://support.arctic.de/products/p12-pwm-pst/img/007.jpg)
 7. Connect to power supply and check that the fans are spinning up.
 8. Tidy up all cables and ensure they won't obsctruct the filter panels that will later be flush against the sides of the fans.
 9. Install colour LED and/or CO2 monitor if/as needed. The PWM fan input can be used to control the fan speed and the sense output can be used to measure actual fan speed (10k pull up resistor required).
@@ -64,6 +64,6 @@ Note: when using plywood adjust bottom/top length for plywood thickness.
 
 ## Todos
 
-- add more photos
-- update plans with measurements, and allow for shlightly oversized panels
-- move corner screw holes in side panels to be slightly offset from those in bottom/top panels
+- [ ] add more photos
+- [ ] update plans with measurements, and allow for shlightly oversized panels
+- [ ] move corner screw holes in side panels to be slightly offset from those in bottom/top panels
