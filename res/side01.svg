@@ -1,0 +1,32 @@
+<svg xmlns="http://www.w3.org/2000/svg" x="0" y="0" width="300mm" height="158mm" viewBox="0 0 300 158" transform="scale (1, 1)" transform-origin="center">
+<g>
+<path d="M 0 0 
+         h 300
+         v 158
+         h -300
+         v -158
+         Z" stroke="red" fill="transparent" style="stroke-width:0.1;stroke-miterlimit:4;stroke-dasharray:none;fill:none" />
+ <circle cx="10" cy="26.5" r="2.5" stroke="red" fill="transparent" style="stroke-width:0.1;stroke-miterlimit:4;stroke-dasharray:none;fill:none" />
+ <circle cx="10" cy="131.5" r="2.5" stroke="red" fill="transparent" style="stroke-width:0.1;stroke-miterlimit:4;stroke-dasharray:none;fill:none" />
+ <circle cx="290" cy="26.5" r="2.5" stroke="red" fill="transparent" style="stroke-width:0.1;stroke-miterlimit:4;stroke-dasharray:none;fill:none" />
+ <circle cx="290" cy="131.5" r="2.5" stroke="red" fill="transparent" style="stroke-width:0.1;stroke-miterlimit:4;stroke-dasharray:none;fill:none" />
+
+ <circle cx="97.5" cy="131.5" r="2.5" stroke="red" fill="transparent" style="stroke-width:0.1;stroke-miterlimit:4;stroke-dasharray:none;fill:none" />
+ <circle cx="97.5" cy="26.5" r="2.5" stroke="red" fill="transparent" style="stroke-width:0.1;stroke-miterlimit:4;stroke-dasharray:none;fill:none" />
+ <circle cx="202.5" cy="131.5" r="2.5" stroke="red" fill="transparent" style="stroke-width:0.1;stroke-miterlimit:4;stroke-dasharray:none;fill:none" />
+ <circle cx="202.5" cy="26.5" r="2.5" stroke="red" fill="transparent" style="stroke-width:0.1;stroke-miterlimit:4;stroke-dasharray:none;fill:none" />
+
+<circle cx="150" cy="79" r="58" stroke="red" fill="transparent" style="stroke-width:0.1;stroke-miterlimit:4;stroke-dasharray:none;fill:none" />
+
+<circle cx="270" cy="79" r="2" stroke="red" fill="transparent" style="stroke-width:0.1;stroke-miterlimit:4;stroke-dasharray:none;fill:none" />
+
+<style>
+    .small { font: italic 5px sans-serif; }
+  </style>
+<!--
+<text x="13" y="26.5" class="small">(13,26.5)</text>
+-->
+
+</g>
+</svg>
+
