@@ -65,5 +65,6 @@ Note: when using plywood adjust bottom/top length for plywood thickness.
 ## Todos
 
 - [ ] add more photos
-- [ ] update plans with measurements, and allow for slightly oversized panels
+- [ ] update plans with measurements
+- [x] allow for slightly oversized panels
 - [x] move corner screw holes in side panels to be slightly offset from those in bottom/top panels
