@@ -2,8 +2,6 @@
 
 Instructions for building a small CR box using silent, low power PC fans, sufficient for a normal room of 25-35m², or maximum of 9 people.
 
---- Note: this is still work in progress and not fully completed ---
-
 ![](img/front.jpg)
 
 # Content
@@ -19,12 +17,16 @@ Instructions for building a small CR box using silent, low power PC fans, suffic
 
 The fans used in this project are designed to achieve 95.7 m³/h airflow each at only 0.3 sone and 1.2W power consumption [spec sheet](https://www.arctic.de/media/f5/5f/2e/1661323426/Spec_Sheet_P12_PWM_PST_EN.pdf).
 
-### Capacity
+## Capacity
 
 The WHO recommends 4-6 air changes per hour (ACH), approximately the equivalent of 800ppm CO2 when using natural ventilation. The 5 fans deliver ca. 475 m³/h, which will clean 60 (8 ACH) to 80 (6 ACH) m³, or, at a ceiling height of 2.3m, **_a room of 25-35m²_**.
 Alternatively and taking the number of occupants into account, the WHO recommends 14.2 l/person/second, which translates to a capacity of 475 m³/h = 132 l/sec = **_9.3 persons_** @ 14.2 l/second.
 
-## Part list
+# Fan controller
+
+See [here](https://github.com/oseiler2/CR-Box-Monitor) for an intgrated fan controller and CO2 monitor that works well in this box.
+
+# Part list
 
 | Component                       | Description                                     | Notes                                                                                                              | Amount | Indicative cost | Supplier                                                                                                                       |
 | ------------------------------- | ----------------------------------------------- | ------------------------------------------------------------------------------------------------------------------ | ------ | --------------- | ------------------------------------------------------------------------------------------------------------------------------ |
@@ -44,7 +46,7 @@ Alternatively and taking the number of occupants into account, the WHO recommend
 | carry handle                    |                                                 | optional                                                                                                           | 1      |                 |                                                                                                                                |
 | LEDs                            |                                                 | optional                                                                                                           |        |                 |                                                                                                                                |
 
-## Assembly
+# Assembly
 
 1. Mount the fans to the inside of the side and top panels. Ensure that the airflow of each fan is through the panel and out (there are small markers printed on the fan case indicating direction of rotation and direction of airflow). When not using fan guards you can use the self-taping screws that ship with the fans. Otherwise use 35mm long M4 screws from the outside through the fan guard, panel and fan and fasten with a hex nut.
 2. Screw the 4 internal 120mm long corners to the inside of the side panels, making sure they're flush against the top/bottom of the panels, and centred.
@@ -62,9 +64,7 @@ Alternatively and taking the number of occupants into account, the WHO recommend
 Note: panels slightly oversized, adjust plans accordingly.
 Note: when using plywood adjust bottom/top length for plywood thickness.
 
-## Todos
+# Todos
 
 - [ ] add more photos
 - [ ] update plans with measurements
-- [x] allow for slightly oversized panels
-- [x] move corner screw holes in side panels to be slightly offset from those in bottom/top panels
